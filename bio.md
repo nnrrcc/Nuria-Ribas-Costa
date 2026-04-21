@@ -3,7 +3,7 @@ layout: default
 title: Bio
 ---
 
-![Headshot]({{ '/assets/img/headshot.jpg' | relative_url }})
+![Headshot]({{ '/assets/img/headshot.jpeg' | relative_url }})
 
 Hi! I’m **Your Friend’s Name** (she/her). I’m a journalist, writer, moderator, and radio show host based in ____.
 
