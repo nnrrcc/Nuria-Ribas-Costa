@@ -14,25 +14,10 @@ Only edit these files:
   `[Text](https://example.com)`
 - Images used inside the page use:
   `![Alt text]({{ '/assets/img/filename.jpg' | relative_url }})`
-  ex. '![Headshot]({{ '/assets/img/headshot.jpeg' | relative_url }})'
-
-## Work page hover images
-
-In `work.md`, if you want a link to show an image on hover, use:
-
-```md
-[Project title](https://example.com "preview: {{ '/assets/img/filename.jpg' | relative_url }}")
-```
-
-Put the image file inside `assets/img/`.
+  ex. `![Headshot]({{ '/assets/img/headshot.jpeg' | relative_url }})`
+  
 
 ## Adding a new work item
-
-Example:
-
-```md
-1. [Project title](https://example.com "preview: {{ '/assets/img/filename.jpg' | relative_url }}"), short description (2026)
-```
 
 If no hover image is needed:
 
@@ -40,20 +25,21 @@ If no hover image is needed:
 1. [Project title](https://example.com), short description (2026)
 ```
 
+In `work.md`, if you want a link to show an image on hover, use:
+
+```md
+[Project title](https://projectlink.com "preview: {{ '/assets/img/filename.jpg' | relative_url }}")
+```
+
+Example:
+
+```md
+1. [Borders of Possibility with Gabriella Sánchez](https://failedarchitecture.com/podcast/borders-of-possibility-w-gabriella-sanchez "preview: {{ '/assets/img/Gabriella-Sanchez.jpg' | relative_url }}"), special episode for Failed Architecture’s podcast (2025).
+```
+
+
 ## Do not edit unless needed
 
 - `_layouts/`
 - `assets/style.css`
 - `_config.yml`
-
-## Preview locally
-
-Run:
-
-```bash
-bundle exec jekyll serve
-```
-
-Then open:
-
-`http://127.0.0.1:4000/Basicwebsite/`
