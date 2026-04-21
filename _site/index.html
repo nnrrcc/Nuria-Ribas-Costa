@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Núria Ribas Costa · Núria Ribas Costa</title>
+    <link rel="stylesheet" href="/Basicwebsite/assets/style.css" />
+  </head>
+
+  <body>
+    <header class="top">
+      <div class="top-inner">
+        <div class="name">
+          <a href="/Basicwebsite/">Núria Ribas Costa</a>
+        </div>
+
+        <nav class="nav">
+          <a href="/Basicwebsite/" class="active">Home</a>
+          <a href="/Basicwebsite/work/" class="">Work</a>
+          <a href="/Basicwebsite/bio/" class="">Bio</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="content">
+      <p><strong>Nuria Ribas Costa</strong> is a Spanish Journalist and Jurist based between Rotterdam and Ibiza, her homeland. Formerly at OMA, she currently works as an independent researcher and policy analyst in the fields of urbanism and culture. She is part of urbanism agency Humankind, research group Vigla, the Center for Music Ecosystems and De Dépendance. She is interested in the relationships rural-urban, the politics of space and land and intersectionality in urbanism.</p>
+
+<hr />
+
+<h1 id="contact">Contact</h1>
+<p><a href="mailto:nribascosta@gmail.com">Email</a> | <a href="https://www.instagram.com/nrc.fm/">Instagram</a> |     <a href="https://www.linkedin.com/in/nuria-ribas-costa/">LinkedIn</a></p>
+
+
+    </main>
+    
+    <footer class="bottom">
+      <div class="bottom-inner">
+        <p>© Núria Ribas Costa 2026</p>
+      </div>
+    </footer>
+    <div class="hover-preview" aria-hidden="true">
+      <img alt="" />
+    </div>
+    <script>
+      document.querySelectorAll('.content li, .content p').forEach(el => {
+        const deg = (Math.random() - 0.5) * 1.1; // Random rotation between -0.55 and 0.55 degrees
+        el.style.transform = 'rotate(' + deg + 'deg)';
+      });
+
+      const hoverPreview = document.querySelector('.hover-preview');
+      const hoverPreviewImage = hoverPreview.querySelector('img');
+      const hoverTargets = Array.from(document.querySelectorAll('.content a')).filter(target =>
+        target.title && target.title.startsWith('preview:')
+      );
+
+      const positionPreview = event => {
+        const viewportPadding = 16;
+        const cursorOffset = 24;
+        const previewWidth = Math.min(360, window.innerWidth - viewportPadding * 2);
+        const previewHeight = Math.min(520, window.innerHeight - viewportPadding * 2);
+        const maxLeft = window.innerWidth - previewWidth - viewportPadding;
+        const maxTop = window.innerHeight - previewHeight - viewportPadding;
+        const left = Math.min(Math.max(viewportPadding, event.clientX + cursorOffset), maxLeft);
+        const top = Math.min(Math.max(viewportPadding, event.clientY + cursorOffset), maxTop);
+
+        hoverPreview.style.left = left + 'px';
+        hoverPreview.style.top = top + 'px';
+      };
+
+      hoverTargets.forEach(target => {
+        const previewImage = target.title.replace(/^preview:\s*/, '');
+        target.dataset.previewImage = previewImage;
+        target.removeAttribute('title');
+
+        target.addEventListener('mouseenter', event => {
+          hoverPreviewImage.src = target.dataset.previewImage;
+          positionPreview(event);
+          hoverPreview.classList.add('is-visible');
+        });
+
+        target.addEventListener('mousemove', event => {
+          if (hoverPreview.classList.contains('is-visible')) {
+            positionPreview(event);
+          }
+        });
+
+        target.addEventListener('mouseleave', () => {
+          hoverPreview.classList.remove('is-visible');
+          hoverPreviewImage.removeAttribute('src');
+        });
+      });
+    </script>
+  </body>
+</html>

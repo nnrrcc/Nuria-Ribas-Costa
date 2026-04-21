@@ -3,9 +3,100 @@ layout: default
 title: Work
 ---
 
-- [Work item title](https://example.com)  
-  Outlet · Year
-- [Work item title](https://example.com)  
-  Outlet · Year
-- [Work item title](https://example.com)  
-  Outlet · Year
+# Editing / curation / moderation
+1. [Borders of Possibility with Gabriella Sánchez](https://failedarchitecture.com/podcast/borders-of-possibility-w-gabriella-sanchez/ "preview: {{ '/assets/img/Gabriella-Sanchez.jpg' | relative_url }}"), special episode for Failed Architecture’s podcast (2025).
+
+2. [Lea Ypi on Indignity and the Fragility of Truth](https://dedependance.eu/events/lea-ypi/ "preview: {{ '/assets/img/Lea-Ypi.jpg' | relative_url }}"), for De Dépendance at OASE, Rotterdam (2025), podcast available [here](https://dedependance.eu/lea-ypi/). 
+
+3. [Meredith Whittaker: on Signal, Surveillance and the Future of AI](https://dedependance.eu/events/meredith-whittaker/ "preview: {{ '/assets/img/Meredith-Whittaker.jpg' | relative_url }}"), for De Dépendance at Theater Rotterdam (2025), podcast available [here](https://dedependance.eu/meredith-whittaker/).
+
+4. [Fortress Europe; with Gabriella E. Sánchez, Klaas van Dijken & Wies Maas](https://dedependance.eu/events/fortress-europe/ "preview: {{ '/assets/img/Fortress-Europe.jpg' | relative_url }}"), for De Dépendance at WORM Rotterdam (2025)
+
+5. [Domicide: The Killing of Home; with Ammar Azzouz, Omar Ferwati & Katharine Fortin](https://dedependance.eu/events/domicide-the-killing-of-home/ "preview: {{ '/assets/img/Domicide.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2024)
+
+6. [Whose Food, What Crisis? with Jennifer Clapp & Thin Lei Win](https://dedependance.eu/events/whose-food-what-crisis/), for De Dépendance at Blue City (2023)
+
+7. 
+
+8. 
+
+---
+# Research / policy
+1. [CIVICITY, Redesigning Design Weeks](https://nieuweinstituut.nl/en/articles/civicity-milan-design-week "preview: {{ '/assets/img/CiviCity.jpg' | relative_url }}"), for Nieuwe Instituut in Rotterdam and Milan (2025)
+
+2. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – ongoing)
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+---
+# Radio / music / sound
+
+1. [Radio Tempo Não Pára](https://soundcloud.com/radiotemponaopara/nuria-01-02-2025)
+
+2. [Operator Radio ](https://operator-radio.com/residents/nuria)
+
+3. Objects & Sounds: contribution to [Sounds on Grief](https://objectsandsounds.bandcamp.com/album/sounds-on-grief) compilation, with Bea Álvarez (2024)
+
+4. [Stranded FM](https://soundcloud.com/strandedfm hell-in-bloom-wnuria-april-30th-2025-stranded-fm)
+
+---
+# Residencies / Workshops 
+
+1. [Organismo TBA-21](https://tba21.org/organismo/about), Critical Encounters Grantee, Madrid, Spain, February – March 2026
+
+2. IMI Winter Academy Participant, [International Migration Institute](https://www.migrationinstitute.org/), Tijuana, México, January 2026
+
+3. Writer in residency, [Can Serrat](https://canserrat.org/es/), Barcelona, Spain, October 2025
+
+4. Acts of Sedimentation, with Julia Strömland; [Kunst Garage Versam](https://www.kunstgarageversam.ch/), Valendas, Switzerland, August 2025
+
+---
+# Writing
+
+1. Editor, contributor, co-founder of [Revista 078](https://revista078.xyz/)
+
+2. [European Review of Books](https://europeanreviewofbooks.com/friendship-is-revolutionary-interview-with-marina-garces/)
+
+3. [DAMN](https://www.damnmagazine.net/theres-hope-in-the-peripheries-milan-went-from-postindustrial-neglect-to-hip-mustsee-design-destination-in-a-few-decades-)
+
+4. [FRAME](https://frameweb.com/article/community/what-if-design-weeks-enrich-rather-than-extract-nieuwe-instituut-is-finding-out)
+
+5. [Failed Architecture](https://failedarchitecture.com/)
+
+6. [MONU](http://www.monu-magazine.com/)
+
+7. [Are We Europe](https://archive.areweeurope.com/15-down-to-earth/)
+
+8. [On Drifting](https://kohllective.com/10_Calypso)
+
+9. [Negratinta](http://negratinta.com/author/nuria-ribas-costa/)
+
+10. [Diario de Ibiza](https://www.diariodeibiza.es/pitiuses-balears/2015/07/11/centro-sa-pedrera-sale-limbo/780083.html)
+
+11. [El Corso](http://elcorso.es/)
+
+12. [Núvol](http://www.nuvol.com/)
+
+13. [Vilaweb](http://www.vilaweb.cat/)
+
+14. [Cadena SER](http://cadenaser.com/)
+
+15. [Ticino Management](http://www.ticinomanagement.ch/)
+
+16. [Enderrock](http://www.enderrock.cat/noticia/15817/marco/mezquida/tot/es/molt/consumista/frugal/tot/son/titulars/immediatesa)
+
+17. [El Temps de les Arts](https://tempsarts.cat/5948-el-mirall-de-leivissa-que-fou/)
+
+18. [Couleurs Jazz](https://couleursjazz.fr/author/nuria-ribas-costa/)
+
+19. [Hemisfèria.cat](https://hemisferia.cat/author/nribas/)
+
+20. [Chib](https://chibnews.tumblr.com/)
+
+21. [Qualsevol Nit](https://qualsevolnit.com/)

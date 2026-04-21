@@ -11,7 +11,7 @@
     <header class="top">
       <div class="top-inner">
         <div class="name">
-          <a href="{{ '/' | relative_url }}">{{ site.title | default: "Your Friend’s Name" }}</a>
+          <a href="{{ '/' | relative_url }}">{{ site.title | default: "Núria Ribas Costa" }}</a>
         </div>
 
         <nav class="nav">
@@ -25,11 +25,63 @@
     <main class="content">
       {{ content }}
     </main>
-
+    
     <footer class="bottom">
       <div class="bottom-inner">
-        <a class="email" href="mailto:hello@example.com">hello@example.com</a>
+        <p>© Núria Ribas Costa 2026</p>
       </div>
     </footer>
+    <div class="hover-preview" aria-hidden="true">
+      <img alt="" />
+    </div>
+    <script>
+      document.querySelectorAll('.content li, .content p').forEach(el => {
+        const deg = (Math.random() - 0.5) * 1.1; // Random rotation between -0.55 and 0.55 degrees
+        el.style.transform = 'rotate(' + deg + 'deg)';
+      });
+
+      const hoverPreview = document.querySelector('.hover-preview');
+      const hoverPreviewImage = hoverPreview.querySelector('img');
+      const hoverTargets = Array.from(document.querySelectorAll('.content a')).filter(target =>
+        target.title && target.title.startsWith('preview:')
+      );
+
+      const positionPreview = event => {
+        const viewportPadding = 16;
+        const cursorOffset = 24;
+        const previewWidth = Math.min(360, window.innerWidth - viewportPadding * 2);
+        const previewHeight = Math.min(520, window.innerHeight - viewportPadding * 2);
+        const maxLeft = window.innerWidth - previewWidth - viewportPadding;
+        const maxTop = window.innerHeight - previewHeight - viewportPadding;
+        const left = Math.min(Math.max(viewportPadding, event.clientX + cursorOffset), maxLeft);
+        const top = Math.min(Math.max(viewportPadding, event.clientY + cursorOffset), maxTop);
+
+        hoverPreview.style.left = left + 'px';
+        hoverPreview.style.top = top + 'px';
+      };
+
+      hoverTargets.forEach(target => {
+        const previewImage = target.title.replace(/^preview:\s*/, '');
+        target.dataset.previewImage = previewImage;
+        target.removeAttribute('title');
+
+        target.addEventListener('mouseenter', event => {
+          hoverPreviewImage.src = target.dataset.previewImage;
+          positionPreview(event);
+          hoverPreview.classList.add('is-visible');
+        });
+
+        target.addEventListener('mousemove', event => {
+          if (hoverPreview.classList.contains('is-visible')) {
+            positionPreview(event);
+          }
+        });
+
+        target.addEventListener('mouseleave', () => {
+          hoverPreview.classList.remove('is-visible');
+          hoverPreviewImage.removeAttribute('src');
+        });
+      });
+    </script>
   </body>
 </html>
