@@ -9,32 +9,29 @@
 
   <body>
     <header class="top">
-      <div class="name">
-        <a href="{{ '/' | relative_url }}">{{ site.title | default: 'Your Friend’s Name' }}</a>
-      </div>
+      <div class="top-inner">
+        <div class="name">
+          <a href="{{ '/' | relative_url }}">{{ site.title | default: "Your Friend’s Name" }}</a>
+        </div>
 
-      <nav class="nav">
-        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-        <a href="{{ '/work/' | relative_url }}" class="{% if page.url contains '/work' %}active{% endif %}">Work</a>
-        <a href="{{ '/bio/' | relative_url }}" class="{% if page.url contains '/bio' %}active{% endif %}">Bio</a>
-      </nav>
+        <nav class="nav">
+          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+          <a href="{{ '/work/' | relative_url }}" class="{% if page.url contains '/work' %}active{% endif %}">Work</a>
+          <a href="{{ '/bio/' | relative_url }}" class="{% if page.url contains '/bio' %}active{% endif %}">Bio</a>
+        </nav>
+      </div>
     </header>
-
-    <aside class="left">
-      <div class="role">
-        Journalist<br/>
-        Writer<br/>
-        Moderator<br/>
-        Radio show host
-      </div>
-    </aside>
 
     <main class="content">
       {{ content }}
     </main>
 
     <footer class="bottom">
-      <a class="email" href="mailto:hello@example.com">hello@example.com</a>
+      <div class="bottom-inner">
+        <a class="email" href="mailto:hello@example.com">hello@example.com</a>
+      </div>
     </footer>
+
+    <script src="{{ '/assets/slideshow.js' | relative_url }}"></script>
   </body>
 </html>
