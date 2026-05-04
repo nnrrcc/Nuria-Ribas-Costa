@@ -64,10 +64,10 @@ a{
   text-decoration-color: rgba(28, 18, 9, 0.82);
   font-weight: 560;
   text-shadow:
-    0.015em 0 rgba(28, 18, 9, 0.28),
-    -0.015em 0 rgba(28, 18, 9, 0.18),
-    0 0 0.025em rgba(28, 18, 9, 0.32),
-    0 0 0.08em rgba(28, 18, 9, 0.14);
+    0.03em 0 rgba(28, 18, 9, 0.28),
+    -0.03em 0 rgba(28, 18, 9, 0.18),
+    0 0 0.03em rgba(28, 18, 9, 0.32),
+    0 0 0.1em rgba(28, 18, 9, 0.14);
   transition:
     font-weight 0.25s ease,
     text-shadow 0.25s ease,
@@ -81,10 +81,10 @@ a:hover{
   text-decoration-color: rgba(28, 18, 9, 0.95);
   font-weight: 680;
   text-shadow:
-    0.02em 0 rgba(28, 18, 9, 0.34),
-    -0.02em 0 rgba(28, 18, 9, 0.22),
-    0 0 0.035em rgba(28, 18, 9, 0.36),
-    0 0 0.11em rgba(28, 18, 9, 0.18);
+    0.05em 0 rgba(28, 18, 9, 0.34),
+    -0.05em 0 rgba(28, 18, 9, 0.22),
+    0 0 0.05em rgba(28, 18, 9, 0.36),
+    0 0 0.15em rgba(28, 18, 9, 0.18);
 }
 
 /* Active nav links drop the underline so the current page feels fixed rather than clickable. */
