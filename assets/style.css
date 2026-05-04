@@ -46,7 +46,7 @@ body::before{
   position: fixed;
   inset: 0;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.1' numOctaves='5' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
-  opacity: 0.48;
+  opacity: 0.32;
   mix-blend-mode: multiply;
   pointer-events: none;
   z-index: 1;
@@ -64,15 +64,15 @@ a{
   text-decoration-color: rgba(28, 18, 9, 0.82);
   font-weight: 560;
   text-shadow:
-    0.03em 0 rgba(28, 18, 9, 0.28),
-    -0.03em 0 rgba(28, 18, 9, 0.18),
-    0 0 0.03em rgba(28, 18, 9, 0.32),
-    0 0 0.1em rgba(28, 18, 9, 0.14);
+    0.015em 0 rgba(28, 18, 9, 0.32),
+    -0.015em 0 rgba(28, 18, 9, 0.32),
+    0 0 0.015em rgba(28, 18, 9, 0.32),
+    0 0 0.015em rgba(28, 18, 9, 0.32);
   transition:
-    font-weight 0.25s ease,
-    text-shadow 0.25s ease,
-    text-decoration-thickness 0.25s ease,
-    text-decoration-color 0.25s ease;
+    font-weight 3s ease,
+    text-shadow 3s ease,
+    text-decoration-thickness 3s ease,
+    text-decoration-color 3s ease;
 }
 
 /* Links get slightly darker and more swollen on hover, like fresh ink soaking outward. */
@@ -81,10 +81,10 @@ a:hover{
   text-decoration-color: rgba(28, 18, 9, 0.95);
   font-weight: 680;
   text-shadow:
-    0.05em 0 rgba(28, 18, 9, 0.34),
-    -0.05em 0 rgba(28, 18, 9, 0.22),
-    0 0 0.05em rgba(28, 18, 9, 0.36),
-    0 0 0.15em rgba(28, 18, 9, 0.18);
+    0.05em 0 rgba(28, 18, 9, 0.32),
+    -0.05em 0 rgba(28, 18, 9, 0.32),
+    0 0 0.05em rgba(28, 18, 9, 0.32),
+    0 0 0.05em rgba(28, 18, 9, 0.32);
 }
 
 /* Active nav links drop the underline so the current page feels fixed rather than clickable. */
