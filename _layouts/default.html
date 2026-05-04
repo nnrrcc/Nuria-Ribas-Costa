@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
   </head>
 
+  // The body class is set to the page's URL path, with slashes replaced by dashes, to allow for page-specific styling if needed.
+
   <body>
     <header class="top">
       <div class="top-inner">
@@ -21,6 +23,8 @@
         </nav>
       </div>
     </header>
+
+    // If the current page is the homepage, display a carousel of images found in the /assets/img/ directory. Each image's alt text is derived from its filename, with dashes replaced by spaces. The first image is loaded eagerly, while the rest are loaded lazily.
 
     <main class="content">
       {% if page.url == '/' %}
@@ -50,17 +54,19 @@
       <img alt="" />
     </div>
     <script>
+
+      // Apply a slight random rotation to each list item and paragraph within the content area to create a more dynamic and less uniform appearance.
       document.querySelectorAll('.content li, .content p').forEach(el => {
         const deg = (Math.random() - 0.5) * 1.2; // Random rotation between -0.6 and 0.6 degrees
         el.style.transform = 'rotate(' + deg + 'deg)';
       });
-
+      // Implement a hover preview feature for links within the content area that have a title attribute starting with "preview:". When the user hovers over such a link, an image specified in the title attribute is displayed near the cursor. The preview follows the cursor as it moves and disappears when the cursor leaves the link.
       const hoverPreview = document.querySelector('.hover-preview');
       const hoverPreviewImage = hoverPreview.querySelector('img');
       const hoverTargets = Array.from(document.querySelectorAll('.content a')).filter(target =>
         target.title && target.title.startsWith('preview:')
       );
-
+      // The positionPreview function calculates the optimal position for the hover preview image based on the cursor's location, ensuring that the preview stays within the viewport and does not overflow off the screen.
       const positionPreview = event => {
         const viewportPadding = 16;
         const cursorOffset = 24;
@@ -74,7 +80,7 @@
         hoverPreview.style.left = left + 'px';
         hoverPreview.style.top = top + 'px';
       };
-
+      // For each link that is a hover target, extract the preview image URL from the title attribute, store it in a data attribute, and set up event listeners for mouseenter, mousemove, and mouseleave to handle the display and positioning of the hover preview.
       hoverTargets.forEach(target => {
         const previewImage = target.title.replace(/^preview:\s*/, '');
         target.dataset.previewImage = previewImage;
@@ -97,7 +103,7 @@
           hoverPreviewImage.removeAttribute('src');
         });
       });
-
+      // For each carousel element on the page, set up an autoplay mechanism that cycles through the slides every 5 seconds. The autoplay pauses when the user hovers over the carousel and resumes when the mouse leaves. The current active slide is determined by the presence of the "is-active" class, and only one slide is visible at a time.
       document.querySelectorAll('[data-carousel]').forEach(carousel => {
         const slides = Array.from(carousel.querySelectorAll('.home-carousel-slide'));
 
@@ -131,7 +137,7 @@
           window.clearInterval(autoplayId);
           autoplayId = window.setInterval(() => {
             showSlide(currentIndex + 1);
-          }, 5000);
+          }, 3000);
         };
 
         carousel.addEventListener('mouseenter', () => {
