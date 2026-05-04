@@ -47,7 +47,7 @@ body::before{
   inset: 0;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.1' numOctaves='5' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
   opacity: 0.32;
-  mix-blend-mode: multiply;
+  mix-blend-mode: hard-light;
   pointer-events: none;
   z-index: 1;
 }
@@ -69,10 +69,10 @@ a{
     0 0 0.015em rgba(28, 18, 9, 0.32),
     0 0 0.015em rgba(28, 18, 9, 0.32);
   transition:
-    font-weight 3s ease,
-    text-shadow 3s ease,
-    text-decoration-thickness 3s ease,
-    text-decoration-color 3s ease;
+    font-weight 0.3s ease,
+    text-shadow 1.6s ease,
+    text-decoration-thickness .3s ease,
+    text-decoration-color .3s ease;
 }
 
 /* Links get slightly darker and more swollen on hover, like fresh ink soaking outward. */
