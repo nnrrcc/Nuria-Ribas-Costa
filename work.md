@@ -16,9 +16,6 @@ title: Work
 
 6. [Whose Food, What Crisis? with Jennifer Clapp & Thin Lei Win](https://dedependance.eu/events/whose-food-what-crisis/), for De Dépendance at Blue City (2023)
 
-7. 
-
-8. 
 
 ---
 # Research / policy
@@ -26,13 +23,6 @@ title: Work
 
 2. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – ongoing)
 
-3. 
-
-4. 
-
-5. 
-
-6. 
 
 ---
 # Radio / music / sound
