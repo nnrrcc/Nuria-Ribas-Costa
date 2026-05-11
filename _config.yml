@@ -2,13 +2,8 @@ title: "Núria Ribas Costa"
 description: "Nuria Ribas Costa is a Spanish Journalist and Jurist based between Rotterdam and Ibiza, her homeland."
 markdown: kramdown
 
-# For a GitHub Pages *project site* (https://user.github.io/myfriendswebsite/)
-# set this to the repo name:
-baseurl: "/Nuria-Ribas-Costa/"
-url: ""
+baseurl: ""
+url: "https://nuriaribascosta.eu"
 
-# Optional: clean permalinks (not critical for 3 pages)
 permalink: pretty
-
-# Keep it minimal
 plugins: []
