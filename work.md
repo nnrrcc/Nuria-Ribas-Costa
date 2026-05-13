@@ -29,7 +29,7 @@ title: Work
 
 3. [Court of the City](http://tribunal.vigla.city/ "preview: {{ '/assets/img/Conversa-tribunal-reduced.jpg' | relative_url }}"), with Crearqció, Diego March, Ramon Marrades and Paloma Medina (2022)
 
-4. [Cultura per a la Recuperació], implementation of a new cultural policy for Generalitat Valenciana in Spain; with Ramon Marrades and Paloma Medina (2022)
+4. Cultura per a la Recuperació, implementation of a new cultural policy for Generalitat Valenciana in Spain; with Ramon Marrades and Paloma Medina (2022)
 
 5. Manual de Pedagogía Urbana of [Tú También Construyes Cuenca](https://www.huasipichanga.com/ttcc-1), led and implemented in Ecuador by Huasipichanga (2020)
 
