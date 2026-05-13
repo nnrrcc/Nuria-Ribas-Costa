@@ -14,11 +14,11 @@ title: Work
 
 5. [Domicide: The Killing of Home; with Ammar Azzouz, Omar Ferwati & Katharine Fortin](https://dedependance.eu/events/domicide-the-killing-of-home/ "preview: {{ '/assets/img/Domicide.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2024)
 
-6. [Whose Food, What Crisis? with Jennifer Clapp & Thin Lei Win](https://dedependance.eu/events/whose-food-what-crisis/), for De Dépendance at Blue City (2023)
+6. [Whose Food, What Crisis? with Jennifer Clapp & Thin Lei Win](https://dedependance.eu/events/whose-food-what-crisis/ "preview: {{ '/assets/img/Food Systems.jpg' | relative_url }}"), for De Dépendance at Blue City (2023)
 
-7. [The Suspicion Machine; with Gabriel Geiger, Miriyam Aouragh, Marlies van Eck & Sofia Ranchordas] (https://dedependance.eu/events/the-suspicion-machine/), for De Dépendance at the Independent School for the City (2023)
+7. [The Suspicion Machine; with Gabriel Geiger, Miriyam Aouragh, Marlies van Eck & Sofia Ranchordas] (https://dedependance.eu/events/the-suspicion-machine/ "preview: {{ '/assets/img/Suspicion-machine.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2023)
 
-8. [Countryside at the United Nations] (https://www.oma.com/projects/countryside-at-the-un), with OMA and with The Economist (2021)
+8. [Countryside at the United Nations] (https://www.oma.com/projects/countryside-at-the-un "preview: {{ '/assets/img/countryside-un.jpg' | relative_url }}"), with OMA and with The Economist (2021)
 
 
 ---
@@ -27,7 +27,7 @@ title: Work
 
 2. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – ongoing)
 
-3. [Court of the City] (http://tribunal.vigla.city/), with Crearqció, Diego March, Ramon Marrades and Paloma Medina (2022)
+3. [Court of the City] (http://tribunal.vigla.city/ "preview: {{ '/assets/img/Conversa-tribunal-reduced.jpg' | relative_url }}"), with Crearqció, Diego March, Ramon Marrades and Paloma Medina (2022)
 
 4. [Cultura per a la Recuperació], implementation of a new cultural policy for Generalitat Valenciana in Spain; with Ramon Marrades and Paloma Medina (2022)
 
