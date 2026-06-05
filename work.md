@@ -4,7 +4,7 @@ title: Work
 ---
 
 # Editing / curation / moderation
-1.[Anna Tsing on the Patchy Anthropocene](https://dedependance.eu/events/anna-tsing/ "preview: {{ '/assets/img/AnnaTsing.jpg' | relative_url }}"), for De Dépendance and Nieuwe Instituut, at Nieuwe Instituut (2026).
+1. [Anna Tsing on the Patchy Anthropocene](https://dedependance.eu/events/anna-tsing/ "preview: {{ '/assets/img/AnnaTsing.jpg' | relative_url }}"), for De Dépendance and Nieuwe Instituut, at Nieuwe Instituut (2026).
 
 2. [Borders of Possibility with Gabriella Sánchez](https://failedarchitecture.com/podcast/borders-of-possibility-w-gabriella-sanchez/ "preview: {{ '/assets/img/Gabriella-Sanchez.jpg' | relative_url }}"), special episode for Failed Architecture’s podcast (2025). Featuring Luigi Achilli, Ahlam Chemlali, and Klaas van Dijken. Sound by Charlie Clemoes / Failed Architecture and Jose Manuel Flores Fuentes.
 
