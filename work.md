@@ -41,13 +41,15 @@ title: Work
 ---
 # Radio / music / sound
 
-1. [Radio Tempo Não Pára](https://soundcloud.com/radiotemponaopara/nuria-01-02-2025)
+1. Co-programmer at [Koda listening space](https://luister.club/), since 2023.
 
-2. [Operator Radio ](https://operator-radio.com/residents/nuria)
+2. [Radio Tempo Não Pára](https://soundcloud.com/radiotemponaopara/nuria-01-02-2025)
 
-3. Objects & Sounds: contribution to [Sounds on Grief](https://objectsandsounds.bandcamp.com/album/sounds-on-grief) compilation, with Bea Álvarez (2024)
+3. [Operator Radio ](https://operator-radio.com/residents/nuria)
 
-4. [Stranded FM](https://soundcloud.com/strandedfm hell-in-bloom-wnuria-april-30th-2025-stranded-fm)
+4. Objects & Sounds: contribution to [Sounds on Grief](https://objectsandsounds.bandcamp.com/album/sounds-on-grief) compilation, with Bea Álvarez (2024)
+
+5. [Stranded FM](https://soundcloud.com/strandedfm hell-in-bloom-wnuria-april-30th-2025-stranded-fm)
 
 ---
 # Residencies / Workshops 
