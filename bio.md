@@ -12,6 +12,8 @@ Nuria leads the communications and citizen engagement research at [Humankind](ht
 Nuria is interested in the relationships rural-urban, the politics of space and land and intersectionality in urbanism. She is also actively engaged in cultural activation and is a member and co-programmer of listening space [KODA](https://www.instagram.com/koda_010/) (Schiedam) and a resident on [Operator Radio](https://operator-radio.com/residents/nuria).
 
 
+/Photo by Aad Hoogendoorn.
+
 
 ***
 
@@ -24,6 +26,7 @@ Núria dirigeix les comunicacions i la recerca ciutadana a [Humankind](https://w
 Núria està interessada en les relacions rural-urbà, les polítiques de l’espai i el territori i la interseccionalitat en l’urbanisme. També participa activament en activació cultural i és membre i co-programadora de l’espai d’escolta activa [KODA](https://www.instagram.com/koda_010/) (Schiedam) i resident a [Operator Radio](https://operator-radio.com/residents/nuria).
 
 
+/Fotografia d'Aad Hoogendoorn.
 
 ***
 
@@ -34,3 +37,6 @@ Núria Ribas Costa es una periodista y jurista española afincada entre Rotterda
 Núria dirige las comunicaciones y la investigación ciudadana en [Humankind](https://www.humankind.city/), una agencia neerlandesa para el cambio urbano, y colabora estrechamente con el equipo de investigación aplicada [Vigla](http://tribunal.vigla.city/) y el [Center for Music Ecosystems](https://www.centerformusicecosystems.com/). También es editora y moderadora para [De Dépendance](https://dedependance.eu/), co-fundadora de la [Revista 078](https://revista078.xyz/) y escribe para medios independientes. Ha publicado en la [European Review of Books](https://europeanreviewofbooks.com/friendship-is-revolutionary-interview-with-marina-garces/), [DAMN](https://www.damnmagazine.net/), [FRAME](https://frameweb.com/?modus=homepage), [Failed Architecture](https://failedarchitecture.com/), [MONU](http://www.monu-magazine.com/issues.htm) y [Are We Europe](https://www.areweeurope.com/stories/the-tourist-trap/), entre otros.
 
 Núria está interesada en las relaciones rural-urbano, las políticas del espacio y el territorio y la interseccionalidad en el urbanismo. También participa activamente en activación cultural y es miembro y co-programadora del espacio de escucha activa [KODA](https://www.instagram.com/koda_010/) (Schiedam) y residente en [Operator Radio](https://operator-radio.com/residents/nuria).
+
+
+/Fotografía de Aad Hoogendoorn.
