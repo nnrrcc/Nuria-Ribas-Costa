@@ -24,18 +24,24 @@ title: Work
 
 
 ---
-# Research / policy
+# Research / policy / urbanism
 1. [CIVICITY, Redesigning Design Weeks](https://nieuweinstituut.nl/en/articles/civicity-milan-design-week "preview: {{ '/assets/img/CiviCity.jpg' | relative_url }}"), for Nieuwe Instituut in Rotterdam and Milan (2025)
 
-2. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – ongoing)
+2. [From Grey to Green](https://www.humankind.city/project/from-grey-to-green) with Humankind Agency for Urban Change and Aanpact, for Gemeente Utrecht (2025-2026)
 
-3. [Court of the City](http://tribunal.vigla.city/ "preview: {{ '/assets/img/Conversa-tribunal-reduced.jpg' | relative_url }}"), with Crearqció, Diego March, Ramon Marrades and Paloma Medina (2022)
+3. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – ongoing)
 
-4. Cultura per a la Recuperació, implementation of a new cultural policy for Generalitat Valenciana in Spain; with Ramon Marrades and Paloma Medina (2022)
+4. [Walking and Cycling in Vila Nova de Gaia](https://www.humankind.city/project/walking-and-cycling-in-vila-nova-de-gaia) with Humankind Agency, for EIT Urban Mobility, Municipality of Vila Nova de Gaia and Marked Wayfinding (2024)
 
-5. Manual de Pedagogía Urbana of [Tú También Construyes Cuenca](https://www.huasipichanga.com/ttcc-1), led and implemented in Ecuador by Huasipichanga (2020)
+5. [Humanizing Cities in Oman](https://www.humankind.city/project/humanizing-cities-in-oman) with Humankind Agency for VNG International and The Royal Academy of Management in Muscat, Oman (2024)
 
-6. [Countryside, A Report](https://www.oma.com/publications/countryside-a-report); OMA/AMO (2020)
+6. [Court of the City](http://tribunal.vigla.city/ "preview: {{ '/assets/img/Conversa-tribunal-reduced.jpg' | relative_url }}"), with Crearqció, Diego March, Ramon Marrades and Paloma Medina (2022)
+
+7. Cultura per a la Recuperació, implementation of a new cultural policy for Generalitat Valenciana in Spain; with Ramon Marrades and Paloma Medina (2022)
+
+8. Manual de Pedagogía Urbana of [Tú También Construyes Cuenca](https://www.huasipichanga.com/ttcc-1), led and implemented in Ecuador by Huasipichanga (2020)
+
+9. [Countryside, A Report](https://www.oma.com/publications/countryside-a-report); OMA/AMO (2020)
 
 
 ---
