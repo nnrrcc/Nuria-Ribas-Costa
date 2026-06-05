@@ -4,21 +4,23 @@ title: Work
 ---
 
 # Editing / curation / moderation
-1. [Borders of Possibility with Gabriella Sánchez](https://failedarchitecture.com/podcast/borders-of-possibility-w-gabriella-sanchez/ "preview: {{ '/assets/img/Gabriella-Sanchez.jpg' | relative_url }}"), special episode for Failed Architecture’s podcast (2025).
+1.[Anna Tsing on the Patchy Anthropocene](https://dedependance.eu/events/anna-tsing/ "preview: {{ '/assets/img/AnnaTsing.jpg' | relative_url }}"), for De Dépendance and Nieuwe Instituut, at Nieuwe Instituut (2026).
 
-2. [Lea Ypi on Indignity and the Fragility of Truth](https://dedependance.eu/events/lea-ypi/ "preview: {{ '/assets/img/Lea-Ypi.jpg' | relative_url }}"), for De Dépendance at OASE, Rotterdam (2025), podcast available [here](https://dedependance.eu/lea-ypi/). 
+2. [Borders of Possibility with Gabriella Sánchez](https://failedarchitecture.com/podcast/borders-of-possibility-w-gabriella-sanchez/ "preview: {{ '/assets/img/Gabriella-Sanchez.jpg' | relative_url }}"), special episode for Failed Architecture’s podcast (2025). Featuring Luigi Achilli, Ahlam Chemlali, and Klaas van Dijken. Sound by Charlie Clemoes / Failed Architecture and Jose Manuel Flores Fuentes.
 
-3. [Meredith Whittaker: on Signal, Surveillance and the Future of AI](https://dedependance.eu/events/meredith-whittaker/ "preview: {{ '/assets/img/Meredith-Whittaker.jpg' | relative_url }}"), for De Dépendance at Theater Rotterdam (2025), podcast available [here](https://dedependance.eu/meredith-whittaker/).
+3. [Lea Ypi on Indignity and the Fragility of Truth](https://dedependance.eu/events/lea-ypi/ "preview: {{ '/assets/img/Lea-Ypi.jpg' | relative_url }}"), for De Dépendance at OASE, Rotterdam (2025), podcast available [here](https://dedependance.eu/lea-ypi/). 
 
-4. [Fortress Europe; with Gabriella E. Sánchez, Klaas van Dijken & Wies Maas](https://dedependance.eu/events/fortress-europe/ "preview: {{ '/assets/img/Fortress-Europe.jpg' | relative_url }}"), for De Dépendance at WORM Rotterdam (2025)
+4. [Meredith Whittaker: on Signal, Surveillance and the Future of AI](https://dedependance.eu/events/meredith-whittaker/ "preview: {{ '/assets/img/Meredith-Whittaker.jpg' | relative_url }}"), for De Dépendance at Theater Rotterdam (2025); with Evelyn Austin (Bits of Freedom). Podcast available [here](https://dedependance.eu/meredith-whittaker/).
 
-5. [Domicide: The Killing of Home; with Ammar Azzouz, Omar Ferwati & Katharine Fortin](https://dedependance.eu/events/domicide-the-killing-of-home/ "preview: {{ '/assets/img/Domicide.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2024)
+5. [Fortress Europe; with Gabriella E. Sánchez, Klaas van Dijken & Wies Maas](https://dedependance.eu/events/fortress-europe/ "preview: {{ '/assets/img/Fortress-Europe.jpg' | relative_url }}"), for De Dépendance at WORM Rotterdam (2025)
 
-6. [Whose Food, What Crisis? with Jennifer Clapp & Thin Lei Win](https://dedependance.eu/events/whose-food-what-crisis/ "preview: {{ '/assets/img/Food Systems.jpg' | relative_url }}"), for De Dépendance at Blue City (2023)
+6. [Domicide: The Killing of Home; with Ammar Azzouz, Omar Ferwati & Katharine Fortin](https://dedependance.eu/events/domicide-the-killing-of-home/ "preview: {{ '/assets/img/Domicide.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2024)
 
-7. [The Suspicion Machine; with Gabriel Geiger, Miriyam Aouragh, Marlies van Eck & Sofia Ranchordas](https://dedependance.eu/events/the-suspicion-machine/ "preview: {{ '/assets/img/Suspicion-machine.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2023)
+7. [Whose Food, What Crisis? with Jennifer Clapp & Thin Lei Win](https://dedependance.eu/events/whose-food-what-crisis/ "preview: {{ '/assets/img/Food Systems.jpg' | relative_url }}"), for De Dépendance at Blue City (2023)
 
-8. [Countryside at the United Nations](https://www.oma.com/projects/countryside-at-the-un "preview: {{ '/assets/img/countryside-un.jpg' | relative_url }}"), with OMA and with The Economist (2021)
+8. [The Suspicion Machine; with Gabriel Geiger, Miriyam Aouragh, Marlies van Eck & Sofia Ranchordas](https://dedependance.eu/events/the-suspicion-machine/ "preview: {{ '/assets/img/Suspicion-machine.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2023)
+
+9. [Countryside at the United Nations](https://www.oma.com/projects/countryside-at-the-un "preview: {{ '/assets/img/countryside-un.jpg' | relative_url }}"), with OMA and with The Economist (2021)
 
 
 ---
