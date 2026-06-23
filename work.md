@@ -73,42 +73,44 @@ title: Work
 
 1. Editor-in-Chief, co-founder of [Revista 078](https://revista078.xyz/)
 
-2. [European Review of Books](https://europeanreviewofbooks.com/friendship-is-revolutionary-interview-with-marina-garces/)
+2. [VOLUME #69](https://archis.org/volume/out-now-volume-69-stress-management/)
 
-3. [DAMN](https://www.damnmagazine.net/theres-hope-in-the-peripheries-milan-went-from-postindustrial-neglect-to-hip-mustsee-design-destination-in-a-few-decades-)
+3. [European Review of Books](https://europeanreviewofbooks.com/friendship-is-revolutionary-interview-with-marina-garces/)
 
-4. [FRAME](https://frameweb.com/article/community/what-if-design-weeks-enrich-rather-than-extract-nieuwe-instituut-is-finding-out)
+4. [DAMN](https://www.damnmagazine.net/theres-hope-in-the-peripheries-milan-went-from-postindustrial-neglect-to-hip-mustsee-design-destination-in-a-few-decades-)
 
-5. [Failed Architecture](https://failedarchitecture.com/)
+5. [FRAME](https://frameweb.com/article/community/what-if-design-weeks-enrich-rather-than-extract-nieuwe-instituut-is-finding-out)
 
-6. [MONU](http://www.monu-magazine.com/)
+6. [Failed Architecture](https://failedarchitecture.com/)
 
-7. [Are We Europe](https://archive.areweeurope.com/15-down-to-earth/)
+7. [MONU](http://www.monu-magazine.com/)
 
-8. [On Drifting](https://kohllective.com/10_Calypso)
+8. [Are We Europe](https://archive.areweeurope.com/15-down-to-earth/)
 
-9. [Negratinta](http://negratinta.com/author/nuria-ribas-costa/)
+9. [On Drifting](https://kohllective.com/10_Calypso)
 
-10. [Diario de Ibiza](https://www.diariodeibiza.es/pitiuses-balears/2015/07/11/centro-sa-pedrera-sale-limbo/780083.html)
+10. [Negratinta](http://negratinta.com/author/nuria-ribas-costa/)
 
-11. [El Corso](http://elcorso.es/)
+11. [Diario de Ibiza](https://www.diariodeibiza.es/pitiuses-balears/2015/07/11/centro-sa-pedrera-sale-limbo/780083.html)
 
-12. [Núvol](http://www.nuvol.com/)
+12. [El Corso](http://elcorso.es/)
 
-13. [Vilaweb](http://www.vilaweb.cat/)
+13. [Núvol](http://www.nuvol.com/)
 
-14. [Cadena SER](http://cadenaser.com/)
+14. [Vilaweb](http://www.vilaweb.cat/)
 
-15. [Ticino Management](http://www.ticinomanagement.ch/)
+15. [Cadena SER](http://cadenaser.com/)
 
-16. [Enderrock](http://www.enderrock.cat/noticia/15817/marco/mezquida/tot/es/molt/consumista/frugal/tot/son/titulars/immediatesa)
+16. [Ticino Management](http://www.ticinomanagement.ch/)
 
-17. [El Temps de les Arts](https://tempsarts.cat/5948-el-mirall-de-leivissa-que-fou/)
+17. [Enderrock](http://www.enderrock.cat/noticia/15817/marco/mezquida/tot/es/molt/consumista/frugal/tot/son/titulars/immediatesa)
 
-18. [Couleurs Jazz](https://couleursjazz.fr/author/nuria-ribas-costa/)
+18. [El Temps de les Arts](https://tempsarts.cat/5948-el-mirall-de-leivissa-que-fou/)
 
-19. [Hemisfèria.cat](https://hemisferia.cat/author/nribas/)
+19. [Couleurs Jazz](https://couleursjazz.fr/author/nuria-ribas-costa/)
 
-20. [Chib](https://chibnews.tumblr.com/)
+20. [Hemisfèria.cat](https://hemisferia.cat/author/nribas/)
 
-21. [Qualsevol Nit](https://qualsevolnit.com/)
+21. [Chib](https://chibnews.tumblr.com/)
+
+22. [Qualsevol Nit](https://qualsevolnit.com/)
