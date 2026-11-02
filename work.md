@@ -31,7 +31,8 @@ title: Work
 
 ---
 # Research / policy / urbanism
-1.[WDC Pavilion for Frankfurt RheinMain by Constructlab](https://wdc2026.org/en/constellations/wdc-pavillon-tour "preview: {{ '/assets/img/WDC.jpg' | relative_url }}")
+
+1. [WDC Pavilion for Frankfurt RheinMain by Constructlab](https://wdc2026.org/en/constellations/wdc-pavillon-tour "preview: {{ '/assets/img/WDC.jpg' | relative_url }}")
 
 2. [CIVICITY, Redesigning Design Weeks](https://nieuweinstituut.nl/en/articles/civicity-milan-design-week "preview: {{ '/assets/img/CiviCity.jpg' | relative_url }}"), for Nieuwe Instituut in Rotterdam and Milan (2025)
 
