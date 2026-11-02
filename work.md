@@ -8,7 +8,7 @@ title: Work
 
 2. [Architectures of Care: New Store x Organizmo](https://nieuweinstituut.nl/en/events/new-store-organizmo-lezing), for Nieuwe Instituut at Nieuwe Instituut (2026).
 
-3. [On nostalgia, gamification and the military industry complex](https://projectlink.com "preview: {{ '/assets/img/filename.jpg' | relative_url }}"), with Firas Shehadeh, Tewa Barnosa, and Salim Bayri for (A)WAKE's New Radicalisms 2026, Do you remember? (2026)
+3. [On nostalgia, gamification and the military industry complex](https://projectlink.com "preview: {{ '/assets/img/NR26.jpg' | relative_url }}"), with Firas Shehadeh, Tewa Barnosa, and Salim Bayri for (A)WAKE's New Radicalisms 2026, Do you remember? (2026)
 
 4. [Anna Tsing on the Patchy Anthropocene](https://dedependance.eu/events/anna-tsing/ "preview: {{ '/assets/img/AnnaTsing.jpg' | relative_url }}"), for De Dépendance and Nieuwe Instituut, at Nieuwe Instituut (2026).
 
