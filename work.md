@@ -6,9 +6,9 @@ title: Work
 # Editing / curation / moderation
 1. [How to be a Dissident with Gal Beckerman](https://dedependance.eu/events/how-to-be-a-dissident/ "preview: {{ '/assets/img/GALBECKERMAN.jpeg' | relative_url }}"), for De Dépendance at Arminius (2026).
 
-2. [Architectures of Care: New Store x Organizmo](https://nieuweinstituut.nl/en/events/new-store-organizmo-lezing), with Natalia Guarnizo and Ana María Gutiérrez for Nieuwe Instituut (2026).
+2. [Architectures of Care: New Store x Organizmo](https://nieuweinstituut.nl/en/events/new-store-organizmo-lezing), with Natalia Guarnizo and Ana María Gutiérrez of Organizmo, Colombia, for Nieuwe Instituut (2026).
 
-3. [On nostalgia, gamification and the military industry complex](https://www.newradicalisms.world/ "preview: {{ '/assets/img/NR26.jpg' | relative_url }}"), with Firas Shehadeh, Tewa Barnosa, and Salim Bayri for (A)WAKE's New Radicalisms Biennial "Do you remember?" (2026)
+3. [Artist talk on nostalgia, gamification and the military industry complex](https://www.newradicalisms.world/ "preview: {{ '/assets/img/NR26.jpg' | relative_url }}"), with Firas Shehadeh, Tewa Barnosa, and Salim Bayri for (A)WAKE's New Radicalisms Biennial "Do you remember?" (2026)
 
 4. [Anna Tsing on the Patchy Anthropocene](https://dedependance.eu/events/anna-tsing/ "preview: {{ '/assets/img/AnnaTsing.jpg' | relative_url }}"), for De Dépendance and Nieuwe Instituut, at Nieuwe Instituut (2026).
 
@@ -38,7 +38,7 @@ title: Work
 
 3. [From Grey to Green](https://www.humankind.city/project/from-grey-to-green) with Humankind Agency for Urban Change and Aanpact, for Gemeente Utrecht as part of REALLOCATE EU Horizon project (2025-2026)
 
-4. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – ongoing)
+4. Music Policy Resilience [Lab](https://www.centerformusicecosystems.com/resilience) and [Network](https://www.musicpolicynetwork.com/), with the Center for Music Ecosystems (2022 – 2025)
 
 5. [Walking and Cycling in Vila Nova de Gaia](https://www.humankind.city/project/walking-and-cycling-in-vila-nova-de-gaia) with Humankind Agency, for EIT Urban Mobility, Municipality of Vila Nova de Gaia and Marked Wayfinding, within EIT Urban Mobility's RAPTOR programme (2024)
 
@@ -82,7 +82,7 @@ title: Work
 
 1. Editor-in-Chief, co-founder of [Revista 078](https://revista078.xyz/)
 
-2. [V.I.P. - Very Important Places](https://www.lacampistany.com/vip "preview: {{ '/assets/img/VIP.jpg' | relative_url }}") development of custom narratives and storylines for La Campistany's piece V.I.P. Very Important Places, performed in MiraMiro (Ghent), Theater op de Markt (Hasselt), Rotterdam, Tilburg and Amsterdam. (2026)
+2. [V.I.P. - Very Important Places](https://www.lacampistany.com/vip "preview: {{ '/assets/img/VIP.jpg' | relative_url }}") narratives and storylines for La Campistany's circus piece V.I.P. Very Important Places, performed in MiraMiro (Ghent), Theater op de Markt (Hasselt), Rotterdam, Tilburg and Amsterdam (2026)
 
 3. [VOLUME #69](https://archis.org/volume/architecture-for-the-wound/)
 
