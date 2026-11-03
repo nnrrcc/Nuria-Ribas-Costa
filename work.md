@@ -4,7 +4,7 @@ title: Work
 ---
 
 # Editing / curation / moderation
-1. [How to be a Dissident with Gal Beckerman](https://dedependance.eu/events/how-to-be-a-dissident/ "preview: {{ '/assets/img/GALBECKERMAN.jpg' | relative_url }}"), for De Dépendance at Arminius (2026).
+1. [How to be a Dissident with Gal Beckerman](https://dedependance.eu/events/how-to-be-a-dissident/ "preview: {{ '/assets/img/GALBECKERMAN.jpeg' | relative_url }}"), for De Dépendance at Arminius (2026).
 
 2. [Architectures of Care: New Store x Organizmo](https://nieuweinstituut.nl/en/events/new-store-organizmo-lezing), for Nieuwe Instituut at Nieuwe Instituut (2026).
 
