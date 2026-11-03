@@ -26,7 +26,7 @@ title: Work
 
 11. [The Suspicion Machine; with Gabriel Geiger, Miriyam Aouragh, Marlies van Eck & Sofia Ranchordas](https://dedependance.eu/events/the-suspicion-machine/ "preview: {{ '/assets/img/Suspicion-machine.jpg' | relative_url }}"), for De Dépendance at the Independent School for the City (2023)
 
-12. [Countryside at the United Nations](https://www.oma.com/projects/countryside-at-the-un "preview: {{ '/assets/img/countryside-un.jpg' | relative_url }}"), with OMA and with The Economist (2021)
+12. [Countryside at the United Nations](https://www.oma.com/projects/countryside-at-the-un "preview: {{ '/assets/img/countryside-un.jpeg' | relative_url }}"), with OMA and with The Economist (2021)
 
 
 ---
